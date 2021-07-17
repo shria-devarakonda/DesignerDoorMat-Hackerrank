@@ -6,4 +6,4 @@ To do here,
 
 Enter an odd number bigger than 5, and the number that is triple it (eg, 5 15 or 9 27) which are the height and width. In the output you will be given a designer welcome mat as per the specifications you mentioned (x 3x).
 
-I figured this out myself and it took an embarassing amount of time to generate, but math is always fun to get lost into.
+I figured this solution out myself and it took an embarassing amount of time to code, but math is always fun to get lost into.
